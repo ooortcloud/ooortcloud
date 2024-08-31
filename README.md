@@ -1,7 +1,7 @@
 ## Hi there 👋
+안녕하세요. 제 Github에 방문하신 것을 환영합니다. 
 
-![Ooortcloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooortcloud&show_icons=true&theme=radical)
-
+편하게 둘러보세요.
 <!--
 **ooortcloud/ooortcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
