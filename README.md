@@ -19,6 +19,8 @@ Web Backend Developer를 목표로 하고 있습니다.
 
 Java와 Spring framework 생태계를 주 기술로 사용하고 있습니다.
 
+그리고 Persistence Framework로 `JPA`와 `Mybatis` 모두 사용 가능합니다.
+
 ## Experience
 
 프로젝트를 진행하면서 아래와 같은 기술들을 경험해보았습니다. 
