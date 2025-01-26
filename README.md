@@ -13,19 +13,29 @@ Web Backend Developer를 목표로 하고 있습니다.
 
 ## Main Stacks
 
+#### Language
+
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
+#### Web Framework
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+
+#### Template Engine
+<p>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-FF4438?style=for-the-badge&logoColor=white">
+</p>
 
 Java와 Spring framework 생태계를 주 기술로 사용하고 있습니다.
 
-그리고 Persistence Framework로 `JPA`와 `Mybatis` 모두 사용 가능합니다.
+그리고 관련해서 Persistence Framework로 `JPA`와 `Mybatis` 모두 사용 가능합니다.
 
 ## Experience
 
-프로젝트를 진행하면서 아래와 같은 기술들을 경험해보았습니다. 
-
-자유롭게 구사하지는 못하지만, 필요하다면 언제든 향상시킬 자신이 있습니다.(요즘은 책도 잘 나와있고, LLM의 발전으로 학습하기 훨씬 편리해졌어요.)
+프로젝트를 진행하면서 또는 개인적으로 학업을 수행하면서 아래의 기술들을 경험해보았습니다.
 
 #### Language
 
@@ -42,12 +52,6 @@ Java와 Spring framework 생태계를 주 기술로 사용하고 있습니다.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-#### Template Engine
-<p>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-FF4438?style=for-the-badge&logoColor=white">
-</p>
-
 #### RDBMS
 
 <p>
@@ -56,7 +60,7 @@ Java와 Spring framework 생태계를 주 기술로 사용하고 있습니다.
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-#### In-memory
+#### In-memory DBMS
 
 <p>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
