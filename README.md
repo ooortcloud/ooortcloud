@@ -1,93 +1,29 @@
-## Job
+# Profile
 
-Web Backend Developer를 목표로 하고 있습니다.
+저는 디지털 세계의 웹 생태계 개발 및 관리를 통해, 현실 및 가상세계를 모두 아우르는 문제 해결 역량을 갖추기 위해 힘쓰는 소프트웨어 엔지니어입니다. 
+바퀴를 다시 발명하기 위해 힘쓰기보다는, 바퀴를 활용해 자동차나 기차 등 더욱 가치 있는 부가가치를 창출하기 위해 노력합니다.
 
-## Propensity
+## 주요 관심사 & 기술 스택
 
-- 기능과 역할 위주의 객체 지향적인 프로그래밍을 선호하여 인터페이스 기반 프로그래밍을 추구합니다.
-- 관리가 용이한 코드 작성을 위해 하나의 함수가 너무 많은 코드를 갖지 않도록 개발하는 것을 추구합니다.
-- 항상 중복되는 코드를 최소화하기 위해 노력합니다.
-- 테스트 코드 작성을 통해 신뢰성 있는 개발을 지향합니다.
-- 가급적 프레임워크나 라이브러리 도구를 사용하여 개발 생산성을 높이는 것을 추구합니다.
-- 설계를 충분히 하고 개발하는 것을 지향합니다.
+- 💻 **웹 개발 & 생태계 구축**  
+  사용자 경험을 고려한 웹 애플리케이션 개발에 깊은 관심이 있으며, 프론트엔드와 백엔드 전반에 걸친 기술을 다룹니다.  
+  특히 Java(Spring Boot), TypeScript(Vue3 포함), JavaScript 환경에서 효율적이고 유지보수 쉬운 코드 작성에 집중합니다.
 
-## Main Stacks
+- ⚙️ **인프라 설계 및 운영**  
+  실무 환경에서 서버 및 클라우드 인프라를 파악하고 운영하는 경험을 쌓아가고 있습니다.
+  Docker, 클라우드 서비스(AWS, NCP) 활용 경험이 있습니다.
 
-#### Language
+- 🤖 **AI 서비스 탐구**  
+  AI 기반 비즈니스 및 엔터테인먼트 서비스, AI 에이전트 시스템 개발을 취미 삼아 탐구하고 있습니다.
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+## 개발 철학
 
-#### Web Framework
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-</p>
+- **유지보수성과 확장성**을 최우선으로 하며, 단순하고 명확한 설계 원칙을 지향합니다.  
+- **사용자와 개발자의 경험**을 모두 고려한 실용적인 기술 선택과 구현을 중요시합니다.  
+- **끊임없는 학습과 실험**을 통해 변화하는 기술 환경에 유연하게 대응합니다.
 
-#### Template Engine
-<p>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-FF4438?style=for-the-badge&logoColor=white">
-</p>
+---
 
-Java와 Spring framework 생태계를 주 기술로 사용하고 있습니다.
+언제든지 함께 성장하고 배우며, 새로운 도전을 즐기고 싶습니다.  
+감사합니다!
 
-그리고 관련해서 Persistence Framework로 `JPA`와 `Mybatis` 모두 사용 가능합니다.
-
-## Experience
-
-프로젝트를 진행하면서 또는 개인적으로 학업을 수행하면서 아래의 기술들을 경험해보았습니다.
-
-#### Language
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-</p>
-
-#### Web Framework
-
-<p>
-  <img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-
-#### RDBMS
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</p>
-
-#### In-memory DBMS
-
-<p>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-</p>
-
-#### CI/CD
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonWebServices&logoColor=white">
-  <img src="https://img.shields.io/badge/NCP-6DB33F?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-</p>
-
-<!--
-**ooortcloud/ooortcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
